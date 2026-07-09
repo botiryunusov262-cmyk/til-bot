@@ -116,26 +116,34 @@ async def statistika(update: Update, context: ContextTypes.DEFAULT_TYPE):
     )
     await update.message.reply_text(text, parse_mode="Markdown")
 
+import asyncio
 
-def main():
+async def main_async():
     token = os.environ.get("BOT_TOKEN")
     if not token:
-        raise RuntimeError(
-            "BOT_TOKEN muhit oʻzgaruvchisi topilmadi. "
-            "Serverda BOT_TOKEN nomli environment variable qoʻshing."
-        )
-
+        raise RuntimeError("Serverda BOT_TOKEN topilmadi!")
+    
+    global app
     app = Application.builder().token(token).build()
-
+    
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("soz", soz))
     app.add_handler(CommandHandler("viktorina", viktorina))
     app.add_handler(CommandHandler("statistika", statistika))
-    app.add_handler(CallbackQueryHandler(handle_quiz_answer, pattern="^quiz\\|"))
-
+    app.add_handler(CallbackQueryHandler(button_handler))
+    
     logger.info("Bot ishga tushdi...")
-    app.run_polling()
+    
+    await app.initialize()
+    await app.start()
+    await app.updater.start_polling()
+    
+    while True:
+        await asyncio.sleep(1)
 
+if __name__ == '__main__':
+    asyncio.run(main_async())
 
-if __name__ == "__main__":
-    main()
+(): 
+
+    
