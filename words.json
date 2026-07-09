@@ -1,0 +1,2922 @@
+[
+  {
+    "en": "one",
+    "uz": "bir",
+    "example": "I have one brother."
+  },
+  {
+    "en": "two",
+    "uz": "ikki",
+    "example": "She has two cats."
+  },
+  {
+    "en": "three",
+    "uz": "uch",
+    "example": "We waited three hours."
+  },
+  {
+    "en": "four",
+    "uz": "toʻrt",
+    "example": "There are four seasons."
+  },
+  {
+    "en": "five",
+    "uz": "besh",
+    "example": "I wake up at five sometimes."
+  },
+  {
+    "en": "six",
+    "uz": "olti",
+    "example": "He has six books."
+  },
+  {
+    "en": "seven",
+    "uz": "yetti",
+    "example": "There are seven days in a week."
+  },
+  {
+    "en": "eight",
+    "uz": "sakkiz",
+    "example": "The shop opens at eight."
+  },
+  {
+    "en": "nine",
+    "uz": "toʻqqiz",
+    "example": "She has nine students."
+  },
+  {
+    "en": "ten",
+    "uz": "oʻn",
+    "example": "I counted to ten."
+  },
+  {
+    "en": "eleven",
+    "uz": "oʻn bir",
+    "example": "It's eleven o'clock."
+  },
+  {
+    "en": "twelve",
+    "uz": "oʻn ikki",
+    "example": "There are twelve months."
+  },
+  {
+    "en": "twenty",
+    "uz": "yigirma",
+    "example": "She is twenty years old."
+  },
+  {
+    "en": "thirty",
+    "uz": "oʻttiz",
+    "example": "He turned thirty last week."
+  },
+  {
+    "en": "forty",
+    "uz": "qirq",
+    "example": "The room fits forty people."
+  },
+  {
+    "en": "fifty",
+    "uz": "ellik",
+    "example": "There are fifty pages."
+  },
+  {
+    "en": "hundred",
+    "uz": "yuz",
+    "example": "I need a hundred dollars."
+  },
+  {
+    "en": "thousand",
+    "uz": "ming",
+    "example": "The city has a thousand shops."
+  },
+  {
+    "en": "first",
+    "uz": "birinchi",
+    "example": "This is my first trip."
+  },
+  {
+    "en": "last",
+    "uz": "oxirgi",
+    "example": "This is my last chance."
+  },
+  {
+    "en": "Monday",
+    "uz": "dushanba",
+    "example": "I have class on Monday."
+  },
+  {
+    "en": "Tuesday",
+    "uz": "seshanba",
+    "example": "We meet every Tuesday."
+  },
+  {
+    "en": "Wednesday",
+    "uz": "chorshanba",
+    "example": "Wednesday is the middle of the week."
+  },
+  {
+    "en": "Thursday",
+    "uz": "payshanba",
+    "example": "I go swimming on Thursday."
+  },
+  {
+    "en": "Friday",
+    "uz": "juma",
+    "example": "Friday is my favorite day."
+  },
+  {
+    "en": "Saturday",
+    "uz": "shanba",
+    "example": "We rest on Saturday."
+  },
+  {
+    "en": "Sunday",
+    "uz": "yakshanba",
+    "example": "Sunday is a family day."
+  },
+  {
+    "en": "January",
+    "uz": "yanvar",
+    "example": "January is very cold."
+  },
+  {
+    "en": "February",
+    "uz": "fevral",
+    "example": "February is a short month."
+  },
+  {
+    "en": "March",
+    "uz": "mart",
+    "example": "Spring starts in March."
+  },
+  {
+    "en": "April",
+    "uz": "aprel",
+    "example": "It often rains in April."
+  },
+  {
+    "en": "May",
+    "uz": "may",
+    "example": "Flowers bloom in May."
+  },
+  {
+    "en": "June",
+    "uz": "iyun",
+    "example": "School ends in June."
+  },
+  {
+    "en": "July",
+    "uz": "iyul",
+    "example": "July is very hot."
+  },
+  {
+    "en": "August",
+    "uz": "avgust",
+    "example": "We travel in August."
+  },
+  {
+    "en": "September",
+    "uz": "sentabr",
+    "example": "School starts in September."
+  },
+  {
+    "en": "October",
+    "uz": "oktabr",
+    "example": "Leaves fall in October."
+  },
+  {
+    "en": "November",
+    "uz": "noyabr",
+    "example": "November is getting cold."
+  },
+  {
+    "en": "December",
+    "uz": "dekabr",
+    "example": "We celebrate New Year in December."
+  },
+  {
+    "en": "red",
+    "uz": "qizil",
+    "example": "She wore a red dress."
+  },
+  {
+    "en": "blue",
+    "uz": "koʻk",
+    "example": "The sky is blue."
+  },
+  {
+    "en": "green",
+    "uz": "yashil",
+    "example": "The grass is green."
+  },
+  {
+    "en": "yellow",
+    "uz": "sariq",
+    "example": "The sun looks yellow."
+  },
+  {
+    "en": "black",
+    "uz": "qora",
+    "example": "He has a black car."
+  },
+  {
+    "en": "white",
+    "uz": "oq",
+    "example": "She likes white shoes."
+  },
+  {
+    "en": "orange",
+    "uz": "apelsin rangi",
+    "example": "The orange fruit is sweet."
+  },
+  {
+    "en": "purple",
+    "uz": "binafsha",
+    "example": "She painted the wall purple."
+  },
+  {
+    "en": "pink",
+    "uz": "pushti",
+    "example": "My sister loves pink."
+  },
+  {
+    "en": "brown",
+    "uz": "jigarrang",
+    "example": "The dog has brown fur."
+  },
+  {
+    "en": "gray",
+    "uz": "kulrang",
+    "example": "The clouds are gray today."
+  },
+  {
+    "en": "gold",
+    "uz": "oltin rangi",
+    "example": "She wore a gold necklace."
+  },
+  {
+    "en": "mother",
+    "uz": "ona",
+    "example": "My mother cooks very well."
+  },
+  {
+    "en": "father",
+    "uz": "ota",
+    "example": "My father works hard."
+  },
+  {
+    "en": "sister",
+    "uz": "opa/singil",
+    "example": "I have one sister."
+  },
+  {
+    "en": "brother",
+    "uz": "aka/uka",
+    "example": "My brother is older than me."
+  },
+  {
+    "en": "grandmother",
+    "uz": "buvi",
+    "example": "My grandmother tells great stories."
+  },
+  {
+    "en": "grandfather",
+    "uz": "bobo",
+    "example": "My grandfather is very wise."
+  },
+  {
+    "en": "son",
+    "uz": "oʻgʻil",
+    "example": "Their son is very smart."
+  },
+  {
+    "en": "daughter",
+    "uz": "qiz",
+    "example": "Her daughter loves music."
+  },
+  {
+    "en": "husband",
+    "uz": "er",
+    "example": "Her husband works abroad."
+  },
+  {
+    "en": "wife",
+    "uz": "xotin",
+    "example": "His wife is a teacher."
+  },
+  {
+    "en": "uncle",
+    "uz": "amaki/tog'a",
+    "example": "My uncle visited us yesterday."
+  },
+  {
+    "en": "aunt",
+    "uz": "amma/xola",
+    "example": "My aunt lives in Samarqand."
+  },
+  {
+    "en": "cousin",
+    "uz": "amakivachcha",
+    "example": "My cousin is my best friend."
+  },
+  {
+    "en": "baby",
+    "uz": "chaqaloq",
+    "example": "The baby is sleeping."
+  },
+  {
+    "en": "child",
+    "uz": "bola",
+    "example": "Every child needs love."
+  },
+  {
+    "en": "head",
+    "uz": "bosh",
+    "example": "My head hurts a little."
+  },
+  {
+    "en": "eye",
+    "uz": "koʻz",
+    "example": "She has beautiful eyes."
+  },
+  {
+    "en": "ear",
+    "uz": "quloq",
+    "example": "His ear is red from the cold."
+  },
+  {
+    "en": "nose",
+    "uz": "burun",
+    "example": "Her nose is small."
+  },
+  {
+    "en": "mouth",
+    "uz": "ogʻiz",
+    "example": "Open your mouth, please."
+  },
+  {
+    "en": "hand",
+    "uz": "qoʻl",
+    "example": "Wash your hands."
+  },
+  {
+    "en": "finger",
+    "uz": "barmoq",
+    "example": "She cut her finger."
+  },
+  {
+    "en": "leg",
+    "uz": "oyoq",
+    "example": "His leg is broken."
+  },
+  {
+    "en": "foot",
+    "uz": "oyoq (panja)",
+    "example": "My foot hurts after running."
+  },
+  {
+    "en": "heart",
+    "uz": "yurak",
+    "example": "Her heart beats fast."
+  },
+  {
+    "en": "hair",
+    "uz": "soch",
+    "example": "She has long hair."
+  },
+  {
+    "en": "tooth",
+    "uz": "tish",
+    "example": "He has a toothache."
+  },
+  {
+    "en": "back",
+    "uz": "orqa",
+    "example": "My back hurts from sitting."
+  },
+  {
+    "en": "stomach",
+    "uz": "qorin",
+    "example": "My stomach is full."
+  },
+  {
+    "en": "shoulder",
+    "uz": "yelka",
+    "example": "He carried the bag on his shoulder."
+  },
+  {
+    "en": "neck",
+    "uz": "boʻyin",
+    "example": "She wore a scarf around her neck."
+  },
+  {
+    "en": "skin",
+    "uz": "teri",
+    "example": "Her skin is very soft."
+  },
+  {
+    "en": "knee",
+    "uz": "tizza",
+    "example": "He hurt his knee playing football."
+  },
+  {
+    "en": "arm",
+    "uz": "qoʻl (bilak)",
+    "example": "She broke her arm."
+  },
+  {
+    "en": "face",
+    "uz": "yuz",
+    "example": "He has a kind face."
+  },
+  {
+    "en": "dog",
+    "uz": "it",
+    "example": "The dog is barking loudly."
+  },
+  {
+    "en": "cat",
+    "uz": "mushuk",
+    "example": "The cat is sleeping on the sofa."
+  },
+  {
+    "en": "bird",
+    "uz": "qush",
+    "example": "The bird is singing."
+  },
+  {
+    "en": "fish",
+    "uz": "baliq",
+    "example": "We caught a big fish."
+  },
+  {
+    "en": "horse",
+    "uz": "ot",
+    "example": "He rides a horse every day."
+  },
+  {
+    "en": "cow",
+    "uz": "sigir",
+    "example": "The cow gives fresh milk."
+  },
+  {
+    "en": "sheep",
+    "uz": "qoʻy",
+    "example": "The farmer has many sheep."
+  },
+  {
+    "en": "chicken",
+    "uz": "tovuq",
+    "example": "The chicken laid an egg."
+  },
+  {
+    "en": "lion",
+    "uz": "sher",
+    "example": "The lion is the king of animals."
+  },
+  {
+    "en": "tiger",
+    "uz": "yoʻlbars",
+    "example": "The tiger is very strong."
+  },
+  {
+    "en": "elephant",
+    "uz": "fil",
+    "example": "The elephant is huge."
+  },
+  {
+    "en": "monkey",
+    "uz": "maymun",
+    "example": "The monkey climbed the tree."
+  },
+  {
+    "en": "bear",
+    "uz": "ayiq",
+    "example": "The bear sleeps in winter."
+  },
+  {
+    "en": "wolf",
+    "uz": "boʻri",
+    "example": "The wolf hunts at night."
+  },
+  {
+    "en": "fox",
+    "uz": "tulki",
+    "example": "The fox is very clever."
+  },
+  {
+    "en": "rabbit",
+    "uz": "quyon",
+    "example": "The rabbit is fast."
+  },
+  {
+    "en": "mouse",
+    "uz": "sichqon",
+    "example": "The mouse ran under the table."
+  },
+  {
+    "en": "snake",
+    "uz": "ilon",
+    "example": "The snake moves silently."
+  },
+  {
+    "en": "bee",
+    "uz": "asalari",
+    "example": "The bee makes honey."
+  },
+  {
+    "en": "butterfly",
+    "uz": "kapalak",
+    "example": "The butterfly is beautiful."
+  },
+  {
+    "en": "spider",
+    "uz": "oʻrgimchak",
+    "example": "The spider made a web."
+  },
+  {
+    "en": "duck",
+    "uz": "oʻrdak",
+    "example": "The duck swims in the pond."
+  },
+  {
+    "en": "goat",
+    "uz": "echki",
+    "example": "The goat eats grass."
+  },
+  {
+    "en": "camel",
+    "uz": "tuya",
+    "example": "The camel lives in the desert."
+  },
+  {
+    "en": "eagle",
+    "uz": "burgut",
+    "example": "The eagle flies very high."
+  },
+  {
+    "en": "frog",
+    "uz": "qurbaqa",
+    "example": "The frog jumps into the water."
+  },
+  {
+    "en": "turtle",
+    "uz": "toshbaqa",
+    "example": "The turtle moves slowly."
+  },
+  {
+    "en": "deer",
+    "uz": "kiyik",
+    "example": "The deer ran into the forest."
+  },
+  {
+    "en": "pig",
+    "uz": "choʻchqa",
+    "example": "The pig lives on the farm."
+  },
+  {
+    "en": "owl",
+    "uz": "boyoʻgʻli",
+    "example": "The owl is awake at night."
+  },
+  {
+    "en": "bread",
+    "uz": "non",
+    "example": "We eat bread every meal."
+  },
+  {
+    "en": "rice",
+    "uz": "guruch",
+    "example": "Rice is the main food here."
+  },
+  {
+    "en": "meat",
+    "uz": "goʻsht",
+    "example": "He doesn't eat meat."
+  },
+  {
+    "en": "egg",
+    "uz": "tuxum",
+    "example": "I had an egg for breakfast."
+  },
+  {
+    "en": "milk",
+    "uz": "sut",
+    "example": "Children should drink milk."
+  },
+  {
+    "en": "cheese",
+    "uz": "pishloq",
+    "example": "She likes cheese sandwiches."
+  },
+  {
+    "en": "sugar",
+    "uz": "shakar",
+    "example": "Don't add too much sugar."
+  },
+  {
+    "en": "salt",
+    "uz": "tuz",
+    "example": "Pass me the salt, please."
+  },
+  {
+    "en": "tea",
+    "uz": "choy",
+    "example": "We drink tea every morning."
+  },
+  {
+    "en": "coffee",
+    "uz": "kofe",
+    "example": "He drinks coffee at work."
+  },
+  {
+    "en": "soup",
+    "uz": "sho'rva",
+    "example": "The soup is very hot."
+  },
+  {
+    "en": "salad",
+    "uz": "salat",
+    "example": "She made a fresh salad."
+  },
+  {
+    "en": "fruit",
+    "uz": "meva",
+    "example": "Fruit is good for health."
+  },
+  {
+    "en": "vegetable",
+    "uz": "sabzavot",
+    "example": "Eat more vegetables."
+  },
+  {
+    "en": "banana",
+    "uz": "banan",
+    "example": "I love bananas."
+  },
+  {
+    "en": "orange (fruit)",
+    "uz": "apelsin",
+    "example": "The orange is juicy."
+  },
+  {
+    "en": "grape",
+    "uz": "uzum",
+    "example": "We grow grapes in our garden."
+  },
+  {
+    "en": "watermelon",
+    "uz": "tarvuz",
+    "example": "Watermelon is sweet in summer."
+  },
+  {
+    "en": "potato",
+    "uz": "kartoshka",
+    "example": "We cooked potatoes for dinner."
+  },
+  {
+    "en": "onion",
+    "uz": "piyoz",
+    "example": "Cut the onion carefully."
+  },
+  {
+    "en": "carrot",
+    "uz": "sabzi",
+    "example": "Rabbits love carrots."
+  },
+  {
+    "en": "tomato",
+    "uz": "pomidor",
+    "example": "The tomato is red and ripe."
+  },
+  {
+    "en": "chicken (meat)",
+    "uz": "tovuq goʻshti",
+    "example": "We ate chicken for lunch."
+  },
+  {
+    "en": "fish (food)",
+    "uz": "baliq (ovqat)",
+    "example": "Fish is healthy food."
+  },
+  {
+    "en": "juice",
+    "uz": "sharbat",
+    "example": "Fresh juice is delicious."
+  },
+  {
+    "en": "honey",
+    "uz": "asal",
+    "example": "Honey is good for your throat."
+  },
+  {
+    "en": "cake",
+    "uz": "tort",
+    "example": "We made a birthday cake."
+  },
+  {
+    "en": "candy",
+    "uz": "konfet",
+    "example": "Children love candy."
+  },
+  {
+    "en": "butter",
+    "uz": "sariyog'",
+    "example": "Spread some butter on the bread."
+  },
+  {
+    "en": "oil",
+    "uz": "yog'",
+    "example": "Add oil to the pan."
+  },
+  {
+    "en": "shirt",
+    "uz": "koʻylak",
+    "example": "He wore a blue shirt."
+  },
+  {
+    "en": "trousers",
+    "uz": "shim",
+    "example": "These trousers are too long."
+  },
+  {
+    "en": "dress",
+    "uz": "koʻylak (ayollar)",
+    "example": "She wore a beautiful dress."
+  },
+  {
+    "en": "shoes",
+    "uz": "poyabzal",
+    "example": "I need new shoes."
+  },
+  {
+    "en": "hat",
+    "uz": "shlyapa",
+    "example": "He wore a hat in the sun."
+  },
+  {
+    "en": "jacket",
+    "uz": "kurtka",
+    "example": "Wear your jacket, it's cold."
+  },
+  {
+    "en": "socks",
+    "uz": "paypoq",
+    "example": "My socks have holes."
+  },
+  {
+    "en": "gloves",
+    "uz": "qoʻlqop",
+    "example": "Wear gloves in winter."
+  },
+  {
+    "en": "scarf",
+    "uz": "sharf",
+    "example": "She wrapped a scarf around her neck."
+  },
+  {
+    "en": "belt",
+    "uz": "kamar",
+    "example": "His belt is made of leather."
+  },
+  {
+    "en": "skirt",
+    "uz": "yubka",
+    "example": "She bought a new skirt."
+  },
+  {
+    "en": "coat",
+    "uz": "palto",
+    "example": "He wore a warm coat."
+  },
+  {
+    "en": "bag",
+    "uz": "sumka",
+    "example": "She carries a big bag."
+  },
+  {
+    "en": "watch",
+    "uz": "soat (qoʻl)",
+    "example": "He checked his watch."
+  },
+  {
+    "en": "glasses",
+    "uz": "koʻzoynak",
+    "example": "She wears glasses to read."
+  },
+  {
+    "en": "room",
+    "uz": "xona",
+    "example": "This room is very clean."
+  },
+  {
+    "en": "kitchen",
+    "uz": "oshxona",
+    "example": "She is cooking in the kitchen."
+  },
+  {
+    "en": "bedroom",
+    "uz": "yotoqxona",
+    "example": "My bedroom is upstairs."
+  },
+  {
+    "en": "bathroom",
+    "uz": "hammom",
+    "example": "The bathroom is small."
+  },
+  {
+    "en": "door",
+    "uz": "eshik",
+    "example": "Close the door, please."
+  },
+  {
+    "en": "window",
+    "uz": "deraza",
+    "example": "Open the window."
+  },
+  {
+    "en": "table",
+    "uz": "stol",
+    "example": "Put the book on the table."
+  },
+  {
+    "en": "chair",
+    "uz": "stul",
+    "example": "Sit on this chair."
+  },
+  {
+    "en": "bed",
+    "uz": "karavot",
+    "example": "I sleep on a soft bed."
+  },
+  {
+    "en": "sofa",
+    "uz": "divan",
+    "example": "We watch TV on the sofa."
+  },
+  {
+    "en": "wall",
+    "uz": "devor",
+    "example": "The wall is painted white."
+  },
+  {
+    "en": "floor",
+    "uz": "pol",
+    "example": "The floor is very clean."
+  },
+  {
+    "en": "roof",
+    "uz": "tom",
+    "example": "The roof is made of tiles."
+  },
+  {
+    "en": "key",
+    "uz": "kalit",
+    "example": "I lost my key."
+  },
+  {
+    "en": "lamp",
+    "uz": "chiroq",
+    "example": "Turn on the lamp."
+  },
+  {
+    "en": "mirror",
+    "uz": "oyna",
+    "example": "She looked in the mirror."
+  },
+  {
+    "en": "clock",
+    "uz": "soat (devor)",
+    "example": "The clock shows five o'clock."
+  },
+  {
+    "en": "garden",
+    "uz": "bog'",
+    "example": "We grow flowers in the garden."
+  },
+  {
+    "en": "yard",
+    "uz": "hovli",
+    "example": "Children play in the yard."
+  },
+  {
+    "en": "fence",
+    "uz": "panjara/devor",
+    "example": "There is a fence around the house."
+  },
+  {
+    "en": "sun",
+    "uz": "quyosh",
+    "example": "The sun is shining brightly."
+  },
+  {
+    "en": "moon",
+    "uz": "oy",
+    "example": "The moon is full tonight."
+  },
+  {
+    "en": "star",
+    "uz": "yulduz",
+    "example": "I can see many stars."
+  },
+  {
+    "en": "sky",
+    "uz": "osmon",
+    "example": "The sky is very blue today."
+  },
+  {
+    "en": "rain",
+    "uz": "yomgʻir",
+    "example": "It's going to rain today."
+  },
+  {
+    "en": "snow",
+    "uz": "qor",
+    "example": "Snow is falling outside."
+  },
+  {
+    "en": "wind",
+    "uz": "shamol",
+    "example": "The wind is very strong."
+  },
+  {
+    "en": "cloud",
+    "uz": "bulut",
+    "example": "There are many clouds today."
+  },
+  {
+    "en": "storm",
+    "uz": "boʻron",
+    "example": "A storm is coming."
+  },
+  {
+    "en": "cold",
+    "uz": "sovuq",
+    "example": "It's very cold outside."
+  },
+  {
+    "en": "hot",
+    "uz": "issiq",
+    "example": "It's too hot today."
+  },
+  {
+    "en": "warm",
+    "uz": "iliq",
+    "example": "The weather is warm today."
+  },
+  {
+    "en": "river",
+    "uz": "daryo",
+    "example": "The river flows through the city."
+  },
+  {
+    "en": "sea",
+    "uz": "dengiz",
+    "example": "We swam in the sea."
+  },
+  {
+    "en": "mountain",
+    "uz": "tog'",
+    "example": "The mountain is covered with snow."
+  },
+  {
+    "en": "forest",
+    "uz": "oʻrmon",
+    "example": "We walked through the forest."
+  },
+  {
+    "en": "tree",
+    "uz": "daraxt",
+    "example": "This tree is very old."
+  },
+  {
+    "en": "flower",
+    "uz": "gul",
+    "example": "She gave me a flower."
+  },
+  {
+    "en": "grass",
+    "uz": "o'tloq/o't",
+    "example": "The grass is green and soft."
+  },
+  {
+    "en": "stone",
+    "uz": "tosh",
+    "example": "He threw a stone into the river."
+  },
+  {
+    "en": "teacher",
+    "uz": "oʻqituvchi",
+    "example": "My teacher is very kind."
+  },
+  {
+    "en": "doctor",
+    "uz": "shifokor",
+    "example": "The doctor examined the patient."
+  },
+  {
+    "en": "nurse",
+    "uz": "hamshira",
+    "example": "The nurse helped the patient."
+  },
+  {
+    "en": "engineer",
+    "uz": "muhandis",
+    "example": "He is an engineer."
+  },
+  {
+    "en": "driver",
+    "uz": "haydovchi",
+    "example": "The driver was very careful."
+  },
+  {
+    "en": "farmer",
+    "uz": "dehqon",
+    "example": "The farmer grows wheat."
+  },
+  {
+    "en": "cook",
+    "uz": "oshpaz",
+    "example": "The cook made a delicious meal."
+  },
+  {
+    "en": "police officer",
+    "uz": "militsioner/politsiyachi",
+    "example": "The police officer helped us."
+  },
+  {
+    "en": "soldier",
+    "uz": "askar",
+    "example": "The soldier defended the country."
+  },
+  {
+    "en": "lawyer",
+    "uz": "advokat",
+    "example": "She hired a good lawyer."
+  },
+  {
+    "en": "dentist",
+    "uz": "stomatolog",
+    "example": "I visited the dentist yesterday."
+  },
+  {
+    "en": "pilot",
+    "uz": "uchuvchi",
+    "example": "The pilot flew the plane safely."
+  },
+  {
+    "en": "artist",
+    "uz": "rassom",
+    "example": "The artist painted a beautiful picture."
+  },
+  {
+    "en": "singer",
+    "uz": "qoʻshiqchi",
+    "example": "She is a famous singer."
+  },
+  {
+    "en": "writer",
+    "uz": "yozuvchi",
+    "example": "He is a well-known writer."
+  },
+  {
+    "en": "scientist",
+    "uz": "olim",
+    "example": "The scientist discovered something new."
+  },
+  {
+    "en": "builder",
+    "uz": "quruvchi",
+    "example": "The builders finished the house."
+  },
+  {
+    "en": "waiter",
+    "uz": "ofitsiant",
+    "example": "The waiter brought our food."
+  },
+  {
+    "en": "cashier",
+    "uz": "kassir",
+    "example": "The cashier counted the money."
+  },
+  {
+    "en": "student",
+    "uz": "talaba/oʻquvchi",
+    "example": "She is a hardworking student."
+  },
+  {
+    "en": "businessman",
+    "uz": "tadbirkor",
+    "example": "He is a successful businessman."
+  },
+  {
+    "en": "photographer",
+    "uz": "fotograf",
+    "example": "The photographer took great pictures."
+  },
+  {
+    "en": "actor",
+    "uz": "aktyor",
+    "example": "He is a talented actor."
+  },
+  {
+    "en": "athlete",
+    "uz": "sportchi",
+    "example": "The athlete trains every day."
+  },
+  {
+    "en": "librarian",
+    "uz": "kutubxonachi",
+    "example": "The librarian helped me find a book."
+  },
+  {
+    "en": "football",
+    "uz": "futbol",
+    "example": "We play football every weekend."
+  },
+  {
+    "en": "basketball",
+    "uz": "basketbol",
+    "example": "He is good at basketball."
+  },
+  {
+    "en": "swimming",
+    "uz": "suzish",
+    "example": "Swimming is good exercise."
+  },
+  {
+    "en": "running",
+    "uz": "yugurish",
+    "example": "Running keeps you healthy."
+  },
+  {
+    "en": "tennis",
+    "uz": "tennis",
+    "example": "She plays tennis on Sundays."
+  },
+  {
+    "en": "boxing",
+    "uz": "boks",
+    "example": "He trains in boxing."
+  },
+  {
+    "en": "chess",
+    "uz": "shaxmat",
+    "example": "My father taught me chess."
+  },
+  {
+    "en": "dance",
+    "uz": "raqs",
+    "example": "She loves to dance."
+  },
+  {
+    "en": "music",
+    "uz": "musiqa",
+    "example": "He listens to music every day."
+  },
+  {
+    "en": "game",
+    "uz": "oʻyin",
+    "example": "This game is very fun."
+  },
+  {
+    "en": "team",
+    "uz": "jamoa",
+    "example": "Our team won the match."
+  },
+  {
+    "en": "competition",
+    "uz": "musobaqa",
+    "example": "She won the competition."
+  },
+  {
+    "en": "exercise",
+    "uz": "mashq",
+    "example": "Exercise every day for health."
+  },
+  {
+    "en": "gym",
+    "uz": "sport zali",
+    "example": "He goes to the gym daily."
+  },
+  {
+    "en": "ball",
+    "uz": "toʻp",
+    "example": "The children played with a ball."
+  },
+  {
+    "en": "race",
+    "uz": "poyga",
+    "example": "He won the race."
+  },
+  {
+    "en": "champion",
+    "uz": "chempion",
+    "example": "She is the champion of the tournament."
+  },
+  {
+    "en": "coach",
+    "uz": "murabbiy",
+    "example": "The coach trains the team."
+  },
+  {
+    "en": "victory",
+    "uz": "gʻalaba",
+    "example": "The team celebrated their victory."
+  },
+  {
+    "en": "match",
+    "uz": "oʻyin (musobaqa)",
+    "example": "We watched the match together."
+  },
+  {
+    "en": "class",
+    "uz": "dars/sinf",
+    "example": "Our class starts at nine."
+  },
+  {
+    "en": "teacher (school)",
+    "uz": "muallim",
+    "example": "The teacher explained the lesson."
+  },
+  {
+    "en": "student (school)",
+    "uz": "oʻquvchi",
+    "example": "Every student did the homework."
+  },
+  {
+    "en": "lesson",
+    "uz": "dars",
+    "example": "Today's lesson was interesting."
+  },
+  {
+    "en": "homework",
+    "uz": "uy vazifasi",
+    "example": "I finished my homework."
+  },
+  {
+    "en": "exam",
+    "uz": "imtihon",
+    "example": "The exam was difficult."
+  },
+  {
+    "en": "test",
+    "uz": "test",
+    "example": "We had a test today."
+  },
+  {
+    "en": "grade",
+    "uz": "baho",
+    "example": "She got a high grade."
+  },
+  {
+    "en": "pen",
+    "uz": "ruchka",
+    "example": "I need a new pen."
+  },
+  {
+    "en": "pencil",
+    "uz": "qalam",
+    "example": "She drew with a pencil."
+  },
+  {
+    "en": "notebook",
+    "uz": "daftar",
+    "example": "Write it in your notebook."
+  },
+  {
+    "en": "desk",
+    "uz": "parta",
+    "example": "He sat at his desk."
+  },
+  {
+    "en": "university",
+    "uz": "universitet",
+    "example": "She studies at a university."
+  },
+  {
+    "en": "degree",
+    "uz": "diplom/daraja",
+    "example": "He has a bachelor's degree."
+  },
+  {
+    "en": "knowledge",
+    "uz": "bilim",
+    "example": "Knowledge is power."
+  },
+  {
+    "en": "go",
+    "uz": "bormoq",
+    "example": "I go to school every day."
+  },
+  {
+    "en": "come",
+    "uz": "kelmoq",
+    "example": "Please come here."
+  },
+  {
+    "en": "see",
+    "uz": "koʻrmoq",
+    "example": "I see a bird outside."
+  },
+  {
+    "en": "look",
+    "uz": "qaramoq",
+    "example": "Look at the sky."
+  },
+  {
+    "en": "give",
+    "uz": "bermoq",
+    "example": "Give me your book."
+  },
+  {
+    "en": "take",
+    "uz": "olmoq",
+    "example": "Take this pen."
+  },
+  {
+    "en": "make",
+    "uz": "yasamoq/qilmoq",
+    "example": "She made a cake."
+  },
+  {
+    "en": "do",
+    "uz": "qilmoq",
+    "example": "I do my homework every night."
+  },
+  {
+    "en": "say",
+    "uz": "aytmoq",
+    "example": "She said hello to me."
+  },
+  {
+    "en": "tell",
+    "uz": "aytib bermoq",
+    "example": "Tell me a story."
+  },
+  {
+    "en": "ask",
+    "uz": "soʻramoq",
+    "example": "I asked her a question."
+  },
+  {
+    "en": "find",
+    "uz": "topmoq",
+    "example": "I found my keys."
+  },
+  {
+    "en": "know",
+    "uz": "bilmoq",
+    "example": "I know the answer."
+  },
+  {
+    "en": "think",
+    "uz": "oʻylamoq",
+    "example": "I think about my future."
+  },
+  {
+    "en": "feel",
+    "uz": "his qilmoq",
+    "example": "I feel very happy."
+  },
+  {
+    "en": "want",
+    "uz": "xohlamoq",
+    "example": "I want a new phone."
+  },
+  {
+    "en": "need",
+    "uz": "kerak boʻlmoq",
+    "example": "I need some water."
+  },
+  {
+    "en": "like",
+    "uz": "yoqtirmoq",
+    "example": "I like this song."
+  },
+  {
+    "en": "call",
+    "uz": "chaqirmoq/qoʻngʻiroq qilmoq",
+    "example": "Call me later."
+  },
+  {
+    "en": "meet",
+    "uz": "uchrashmoq",
+    "example": "Let's meet tomorrow."
+  },
+  {
+    "en": "open",
+    "uz": "ochmoq",
+    "example": "Open the door, please."
+  },
+  {
+    "en": "close",
+    "uz": "yopmoq",
+    "example": "Close the window."
+  },
+  {
+    "en": "buy",
+    "uz": "sotib olmoq",
+    "example": "I bought a new bag."
+  },
+  {
+    "en": "sell",
+    "uz": "sotmoq",
+    "example": "He sells vegetables."
+  },
+  {
+    "en": "pay",
+    "uz": "toʻlamoq",
+    "example": "I paid for the ticket."
+  },
+  {
+    "en": "clean",
+    "uz": "tozalamoq",
+    "example": "I clean my room every week."
+  },
+  {
+    "en": "wash",
+    "uz": "yuvmoq",
+    "example": "Wash your hands before eating."
+  },
+  {
+    "en": "carry",
+    "uz": "koʻtarmoq",
+    "example": "He carried the heavy bag."
+  },
+  {
+    "en": "push",
+    "uz": "itarmoq",
+    "example": "Push the door to open it."
+  },
+  {
+    "en": "pull",
+    "uz": "tortmoq",
+    "example": "Pull the rope."
+  },
+  {
+    "en": "stop",
+    "uz": "toʻxtatmoq",
+    "example": "Stop the car here."
+  },
+  {
+    "en": "continue",
+    "uz": "davom ettirmoq",
+    "example": "Please continue your story."
+  },
+  {
+    "en": "wait",
+    "uz": "kutmoq",
+    "example": "Wait for me here."
+  },
+  {
+    "en": "arrive",
+    "uz": "yetib bormoq",
+    "example": "We arrived at the airport on time."
+  },
+  {
+    "en": "leave",
+    "uz": "ketmoq",
+    "example": "She left the house early."
+  },
+  {
+    "en": "return",
+    "uz": "qaytmoq",
+    "example": "He returned home late."
+  },
+  {
+    "en": "visit",
+    "uz": "tashrif buyurmoq",
+    "example": "We visited our grandparents."
+  },
+  {
+    "en": "send",
+    "uz": "yubormoq",
+    "example": "I sent her a letter."
+  },
+  {
+    "en": "receive",
+    "uz": "qabul qilmoq",
+    "example": "I received a gift."
+  },
+  {
+    "en": "teach",
+    "uz": "oʻqitmoq",
+    "example": "She teaches English."
+  },
+  {
+    "en": "study",
+    "uz": "oʻqimoq (taʼlim)",
+    "example": "I study every evening."
+  },
+  {
+    "en": "big",
+    "uz": "katta",
+    "example": "This house is very big."
+  },
+  {
+    "en": "small",
+    "uz": "kichik",
+    "example": "She has a small dog."
+  },
+  {
+    "en": "tall",
+    "uz": "baland (bo'y)",
+    "example": "He is very tall."
+  },
+  {
+    "en": "short",
+    "uz": "past/qisqa",
+    "example": "This road is short."
+  },
+  {
+    "en": "long",
+    "uz": "uzun",
+    "example": "She has long hair."
+  },
+  {
+    "en": "new",
+    "uz": "yangi",
+    "example": "I bought a new phone."
+  },
+  {
+    "en": "old",
+    "uz": "eski/qari",
+    "example": "This is an old book."
+  },
+  {
+    "en": "young",
+    "uz": "yosh",
+    "example": "She is very young."
+  },
+  {
+    "en": "good",
+    "uz": "yaxshi",
+    "example": "This is a good idea."
+  },
+  {
+    "en": "bad",
+    "uz": "yomon",
+    "example": "That was a bad decision."
+  },
+  {
+    "en": "dirty",
+    "uz": "iflos",
+    "example": "His shoes are dirty."
+  },
+  {
+    "en": "full",
+    "uz": "toʻla",
+    "example": "The glass is full of water."
+  },
+  {
+    "en": "empty",
+    "uz": "boʻsh",
+    "example": "The box is empty."
+  },
+  {
+    "en": "hot (adj)",
+    "uz": "issiq (harorat)",
+    "example": "The soup is very hot."
+  },
+  {
+    "en": "cold (adj)",
+    "uz": "sovuq (harorat)",
+    "example": "The water is cold."
+  },
+  {
+    "en": "light",
+    "uz": "yengil/yorugʻ",
+    "example": "This bag is very light."
+  },
+  {
+    "en": "heavy",
+    "uz": "ogʻir",
+    "example": "This box is heavy."
+  },
+  {
+    "en": "bright",
+    "uz": "yorqin",
+    "example": "The light is very bright."
+  },
+  {
+    "en": "dark",
+    "uz": "qorongʻu",
+    "example": "The room was dark."
+  },
+  {
+    "en": "soft",
+    "uz": "yumshoq",
+    "example": "The pillow is soft."
+  },
+  {
+    "en": "hard",
+    "uz": "qattiq",
+    "example": "This bread is hard."
+  },
+  {
+    "en": "wet",
+    "uz": "hoʻl",
+    "example": "My clothes are wet."
+  },
+  {
+    "en": "dry",
+    "uz": "quruq",
+    "example": "The weather is very dry."
+  },
+  {
+    "en": "thin",
+    "uz": "ingichka/ozg'in",
+    "example": "The paper is very thin."
+  },
+  {
+    "en": "thick",
+    "uz": "qalin",
+    "example": "This book is very thick."
+  },
+  {
+    "en": "high",
+    "uz": "baland",
+    "example": "The mountain is very high."
+  },
+  {
+    "en": "low",
+    "uz": "past",
+    "example": "The price is low."
+  },
+  {
+    "en": "rich",
+    "uz": "boy",
+    "example": "He is a rich man."
+  },
+  {
+    "en": "poor",
+    "uz": "kambagʻal",
+    "example": "They help poor families."
+  },
+  {
+    "en": "safe",
+    "uz": "xavfsiz",
+    "example": "This place is very safe."
+  },
+  {
+    "en": "dangerous",
+    "uz": "xavfli",
+    "example": "That road is dangerous."
+  },
+  {
+    "en": "clever",
+    "uz": "aqlli",
+    "example": "She is a clever student."
+  },
+  {
+    "en": "funny",
+    "uz": "kulgili",
+    "example": "That was a funny movie."
+  },
+  {
+    "en": "interesting",
+    "uz": "qiziqarli",
+    "example": "This book is very interesting."
+  },
+  {
+    "en": "boring",
+    "uz": "zerikarli",
+    "example": "The lesson was boring."
+  },
+  {
+    "en": "famous",
+    "uz": "mashhur",
+    "example": "He is a famous singer."
+  },
+  {
+    "en": "popular",
+    "uz": "ommabop",
+    "example": "This song is very popular."
+  },
+  {
+    "en": "modern",
+    "uz": "zamonaviy",
+    "example": "They live in a modern house."
+  },
+  {
+    "en": "traditional",
+    "uz": "anʼanaviy",
+    "example": "We cooked a traditional meal."
+  },
+  {
+    "en": "street",
+    "uz": "koʻcha",
+    "example": "She lives on this street."
+  },
+  {
+    "en": "park",
+    "uz": "bogʻ/park",
+    "example": "We walked in the park."
+  },
+  {
+    "en": "hospital",
+    "uz": "kasalxona",
+    "example": "He was taken to the hospital."
+  },
+  {
+    "en": "bank",
+    "uz": "bank",
+    "example": "I need to go to the bank."
+  },
+  {
+    "en": "post office",
+    "uz": "pochta",
+    "example": "I sent the letter from the post office."
+  },
+  {
+    "en": "station",
+    "uz": "bekat/vokzal",
+    "example": "The train station is nearby."
+  },
+  {
+    "en": "bridge",
+    "uz": "koʻprik",
+    "example": "We crossed the bridge."
+  },
+  {
+    "en": "mosque",
+    "uz": "masjid",
+    "example": "They pray at the mosque."
+  },
+  {
+    "en": "museum",
+    "uz": "muzey",
+    "example": "We visited the history museum."
+  },
+  {
+    "en": "stadium",
+    "uz": "stadion",
+    "example": "The match is at the stadium."
+  },
+  {
+    "en": "library",
+    "uz": "kutubxona",
+    "example": "I borrowed a book from the library."
+  },
+  {
+    "en": "factory",
+    "uz": "zavod",
+    "example": "He works at a factory."
+  },
+  {
+    "en": "office",
+    "uz": "ofis",
+    "example": "She works in an office."
+  },
+  {
+    "en": "square",
+    "uz": "maydon",
+    "example": "People gathered in the square."
+  },
+  {
+    "en": "cinema",
+    "uz": "kinoteatr",
+    "example": "We watched a movie at the cinema."
+  },
+  {
+    "en": "pharmacy",
+    "uz": "dorixona",
+    "example": "I bought medicine at the pharmacy."
+  },
+  {
+    "en": "supermarket",
+    "uz": "supermarket",
+    "example": "We buy food at the supermarket."
+  },
+  {
+    "en": "neighborhood",
+    "uz": "mahalla",
+    "example": "Our neighborhood is very friendly."
+  },
+  {
+    "en": "country",
+    "uz": "mamlakat",
+    "example": "Uzbekistan is a beautiful country."
+  },
+  {
+    "en": "capital",
+    "uz": "poytaxt",
+    "example": "Tashkent is the capital city."
+  },
+  {
+    "en": "application",
+    "uz": "ilova",
+    "example": "I downloaded a new application."
+  },
+  {
+    "en": "battery",
+    "uz": "batareya",
+    "example": "My phone battery is low."
+  },
+  {
+    "en": "charger",
+    "uz": "zaryadlovchi",
+    "example": "I forgot my charger at home."
+  },
+  {
+    "en": "wifi",
+    "uz": "wifi",
+    "example": "The wifi is not working."
+  },
+  {
+    "en": "keyboard",
+    "uz": "klaviatura",
+    "example": "This keyboard is very fast."
+  },
+  {
+    "en": "website",
+    "uz": "veb-sayt",
+    "example": "I found this on a website."
+  },
+  {
+    "en": "software",
+    "uz": "dastur (dasturiy taʼminot)",
+    "example": "This software is very useful."
+  },
+  {
+    "en": "device",
+    "uz": "qurilma",
+    "example": "This device is very modern."
+  },
+  {
+    "en": "network",
+    "uz": "tarmoq",
+    "example": "The network is very slow today."
+  },
+  {
+    "en": "update",
+    "uz": "yangilash",
+    "example": "Please update the application."
+  },
+  {
+    "en": "account",
+    "uz": "hisob (akkaunt)",
+    "example": "I created a new account."
+  },
+  {
+    "en": "file",
+    "uz": "fayl",
+    "example": "I saved the file on my phone."
+  },
+  {
+    "en": "folder",
+    "uz": "papka",
+    "example": "Put the files in this folder."
+  },
+  {
+    "en": "search",
+    "uz": "qidirmoq",
+    "example": "I searched for the answer online."
+  },
+  {
+    "en": "click",
+    "uz": "bosmoq (sichqoncha)",
+    "example": "Click this button to continue."
+  },
+  {
+    "en": "always",
+    "uz": "doim",
+    "example": "She is always kind."
+  },
+  {
+    "en": "never",
+    "uz": "hech qachon",
+    "example": "I never lie."
+  },
+  {
+    "en": "sometimes",
+    "uz": "ba'zan",
+    "example": "Sometimes I feel tired."
+  },
+  {
+    "en": "often",
+    "uz": "tez-tez",
+    "example": "He often visits us."
+  },
+  {
+    "en": "usually",
+    "uz": "odatda",
+    "example": "I usually wake up at seven."
+  },
+  {
+    "en": "now",
+    "uz": "hozir",
+    "example": "I am busy now."
+  },
+  {
+    "en": "soon",
+    "uz": "tez orada",
+    "example": "We will meet soon."
+  },
+  {
+    "en": "later",
+    "uz": "keyinroq",
+    "example": "I'll call you later."
+  },
+  {
+    "en": "already",
+    "uz": "allaqachon",
+    "example": "She already finished her work."
+  },
+  {
+    "en": "still",
+    "uz": "hali ham",
+    "example": "He is still sleeping."
+  },
+  {
+    "en": "beginning",
+    "uz": "boshlanish",
+    "example": "This is the beginning of a new story."
+  },
+  {
+    "en": "end",
+    "uz": "oxir/tugash",
+    "example": "This is the end of the movie."
+  },
+  {
+    "en": "world",
+    "uz": "dunyo",
+    "example": "The world is very big."
+  },
+  {
+    "en": "nature",
+    "uz": "tabiat",
+    "example": "We must protect nature."
+  },
+  {
+    "en": "peace",
+    "uz": "tinchlik",
+    "example": "We want peace in the world."
+  },
+  {
+    "en": "war",
+    "uz": "urush",
+    "example": "War brings only pain."
+  },
+  {
+    "en": "freedom",
+    "uz": "erkinlik",
+    "example": "Freedom is very important."
+  },
+  {
+    "en": "truth",
+    "uz": "haqiqat",
+    "example": "Always tell the truth."
+  },
+  {
+    "en": "news",
+    "uz": "yangiliklar",
+    "example": "I watch the news every evening."
+  },
+  {
+    "en": "story",
+    "uz": "hikoya",
+    "example": "She told us a wonderful story."
+  },
+  {
+    "en": "history",
+    "uz": "tarix",
+    "example": "I love learning history."
+  },
+  {
+    "en": "culture",
+    "uz": "madaniyat",
+    "example": "Every country has its own culture."
+  },
+  {
+    "en": "tradition",
+    "uz": "anʼana",
+    "example": "This is an old tradition."
+  },
+  {
+    "en": "holiday",
+    "uz": "bayram",
+    "example": "We celebrate this holiday every year."
+  },
+  {
+    "en": "gift",
+    "uz": "sovgʻa",
+    "example": "She gave me a beautiful gift."
+  },
+  {
+    "en": "surprise",
+    "uz": "sarpriz",
+    "example": "It was a nice surprise."
+  },
+  {
+    "en": "party",
+    "uz": "ziyofat",
+    "example": "We had a party last night."
+  },
+  {
+    "en": "wedding",
+    "uz": "toʻy",
+    "example": "Their wedding was beautiful."
+  },
+  {
+    "en": "birthday",
+    "uz": "tugʻilgan kun",
+    "example": "Today is my birthday."
+  },
+  {
+    "en": "guest",
+    "uz": "mehmon",
+    "example": "We have a guest today."
+  },
+  {
+    "en": "thirteen",
+    "uz": "oʻn uch",
+    "example": "She is thirteen years old."
+  },
+  {
+    "en": "fourteen",
+    "uz": "oʻn toʻrt",
+    "example": "He has fourteen books."
+  },
+  {
+    "en": "fifteen",
+    "uz": "oʻn besh",
+    "example": "We waited fifteen minutes."
+  },
+  {
+    "en": "sixteen",
+    "uz": "oʻn olti",
+    "example": "She turned sixteen today."
+  },
+  {
+    "en": "seventeen",
+    "uz": "oʻn yetti",
+    "example": "There are seventeen students."
+  },
+  {
+    "en": "eighteen",
+    "uz": "oʻn sakkiz",
+    "example": "He is eighteen years old."
+  },
+  {
+    "en": "nineteen",
+    "uz": "oʻn toʻqqiz",
+    "example": "She has nineteen dollars."
+  },
+  {
+    "en": "sixty",
+    "uz": "oltmish",
+    "example": "My grandfather is sixty."
+  },
+  {
+    "en": "seventy",
+    "uz": "yetmish",
+    "example": "The bus costs seventy cents."
+  },
+  {
+    "en": "eighty",
+    "uz": "sakson",
+    "example": "She scored eighty points."
+  },
+  {
+    "en": "ninety",
+    "uz": "toʻqson",
+    "example": "The room number is ninety."
+  },
+  {
+    "en": "million",
+    "uz": "million",
+    "example": "The city has one million people."
+  },
+  {
+    "en": "second (ordinal)",
+    "uz": "ikkinchi",
+    "example": "This is my second time here."
+  },
+  {
+    "en": "third",
+    "uz": "uchinchi",
+    "example": "She finished third in the race."
+  },
+  {
+    "en": "half",
+    "uz": "yarim",
+    "example": "I ate half of the cake."
+  },
+  {
+    "en": "quarter",
+    "uz": "chorak",
+    "example": "Wait a quarter of an hour."
+  },
+  {
+    "en": "who",
+    "uz": "kim",
+    "example": "Who is that man?"
+  },
+  {
+    "en": "what",
+    "uz": "nima",
+    "example": "What is your name?"
+  },
+  {
+    "en": "where",
+    "uz": "qayerda",
+    "example": "Where do you live?"
+  },
+  {
+    "en": "when",
+    "uz": "qachon",
+    "example": "When is your birthday?"
+  },
+  {
+    "en": "why",
+    "uz": "nima uchun",
+    "example": "Why are you sad?"
+  },
+  {
+    "en": "how",
+    "uz": "qanday",
+    "example": "How are you today?"
+  },
+  {
+    "en": "which",
+    "uz": "qaysi",
+    "example": "Which book do you want?"
+  },
+  {
+    "en": "whose",
+    "uz": "kimning",
+    "example": "Whose bag is this?"
+  },
+  {
+    "en": "this",
+    "uz": "bu",
+    "example": "This is my house."
+  },
+  {
+    "en": "that",
+    "uz": "u (narsa)",
+    "example": "That is her car."
+  },
+  {
+    "en": "these",
+    "uz": "bular",
+    "example": "These are my friends."
+  },
+  {
+    "en": "those",
+    "uz": "ular (narsalar)",
+    "example": "Those are her books."
+  },
+  {
+    "en": "here",
+    "uz": "bu yerda",
+    "example": "Come here, please."
+  },
+  {
+    "en": "there",
+    "uz": "u yerda",
+    "example": "Put it there."
+  },
+  {
+    "en": "everyone",
+    "uz": "hamma",
+    "example": "Everyone likes this song."
+  },
+  {
+    "en": "someone",
+    "uz": "kimdir",
+    "example": "Someone called you."
+  },
+  {
+    "en": "nobody",
+    "uz": "hech kim",
+    "example": "Nobody knows the answer."
+  },
+  {
+    "en": "everything",
+    "uz": "hamma narsa",
+    "example": "Everything is ready."
+  },
+  {
+    "en": "something",
+    "uz": "biror narsa",
+    "example": "I want to tell you something."
+  },
+  {
+    "en": "nothing",
+    "uz": "hech narsa",
+    "example": "There is nothing here."
+  },
+  {
+    "en": "in",
+    "uz": "ichida",
+    "example": "The book is in the bag."
+  },
+  {
+    "en": "on",
+    "uz": "ustida",
+    "example": "The cup is on the table."
+  },
+  {
+    "en": "under",
+    "uz": "ostida",
+    "example": "The cat is under the bed."
+  },
+  {
+    "en": "above",
+    "uz": "tepasida",
+    "example": "The plane flew above the clouds."
+  },
+  {
+    "en": "below",
+    "uz": "pastida",
+    "example": "The valley is below the mountain."
+  },
+  {
+    "en": "between",
+    "uz": "orasida",
+    "example": "She sat between us."
+  },
+  {
+    "en": "behind",
+    "uz": "orqasida",
+    "example": "The garden is behind the house."
+  },
+  {
+    "en": "in front of",
+    "uz": "oldida",
+    "example": "He stood in front of the door."
+  },
+  {
+    "en": "with",
+    "uz": "bilan",
+    "example": "I went with my friend."
+  },
+  {
+    "en": "without",
+    "uz": "-siz",
+    "example": "She left without saying goodbye."
+  },
+  {
+    "en": "before",
+    "uz": "oldin",
+    "example": "Wash your hands before eating."
+  },
+  {
+    "en": "after",
+    "uz": "keyin",
+    "example": "We will talk after the meeting."
+  },
+  {
+    "en": "during",
+    "uz": "davomida",
+    "example": "She slept during the movie."
+  },
+  {
+    "en": "through",
+    "uz": "orqali",
+    "example": "We walked through the park."
+  },
+  {
+    "en": "because",
+    "uz": "chunki",
+    "example": "I stayed home because it was raining."
+  },
+  {
+    "en": "but",
+    "uz": "lekin",
+    "example": "I wanted to go, but I was tired."
+  },
+  {
+    "en": "and",
+    "uz": "va",
+    "example": "She likes tea and coffee."
+  },
+  {
+    "en": "or",
+    "uz": "yoki",
+    "example": "Do you want tea or coffee?"
+  },
+  {
+    "en": "if",
+    "uz": "agar",
+    "example": "If it rains, I will stay home."
+  },
+  {
+    "en": "although",
+    "uz": "garchi",
+    "example": "Although it was cold, we went outside."
+  },
+  {
+    "en": "decide",
+    "uz": "qaror qilmoq",
+    "example": "I decided to study English."
+  },
+  {
+    "en": "choose",
+    "uz": "tanlamoq",
+    "example": "She chose the blue dress."
+  },
+  {
+    "en": "agree",
+    "uz": "rozi boʻlmoq",
+    "example": "I agree with you."
+  },
+  {
+    "en": "disagree",
+    "uz": "rozi boʻlmaslik",
+    "example": "He disagreed with the plan."
+  },
+  {
+    "en": "allow",
+    "uz": "ruxsat bermoq",
+    "example": "My parents allow me to go out."
+  },
+  {
+    "en": "forbid",
+    "uz": "taqiqlamoq",
+    "example": "They forbid smoking here."
+  },
+  {
+    "en": "promise",
+    "uz": "va'da bermoq",
+    "example": "I promise to help you."
+  },
+  {
+    "en": "suggest",
+    "uz": "taklif qilmoq",
+    "example": "She suggested a new plan."
+  },
+  {
+    "en": "prepare",
+    "uz": "tayyorlamoq",
+    "example": "I prepared dinner for the guests."
+  },
+  {
+    "en": "organize",
+    "uz": "tashkil qilmoq",
+    "example": "We organized a small party."
+  },
+  {
+    "en": "invite",
+    "uz": "taklif qilmoq (mehmonga)",
+    "example": "I invited my friends to the party."
+  },
+  {
+    "en": "celebrate",
+    "uz": "nishonlamoq",
+    "example": "We celebrated her birthday."
+  },
+  {
+    "en": "protect",
+    "uz": "himoya qilmoq",
+    "example": "Parents protect their children."
+  },
+  {
+    "en": "support",
+    "uz": "qoʻllab-quvvatlamoq",
+    "example": "My family supports my dreams."
+  },
+  {
+    "en": "encourage",
+    "uz": "ilhomlantirmoq",
+    "example": "She encouraged me to try again."
+  },
+  {
+    "en": "appreciate",
+    "uz": "qadrlamoq",
+    "example": "I appreciate your help."
+  },
+  {
+    "en": "apologize",
+    "uz": "uzr soʻramoq",
+    "example": "He apologized for being late."
+  },
+  {
+    "en": "forgive",
+    "uz": "kechirmoq",
+    "example": "She forgave her friend."
+  },
+  {
+    "en": "complain",
+    "uz": "shikoyat qilmoq",
+    "example": "He complained about the food."
+  },
+  {
+    "en": "recommend",
+    "uz": "tavsiya qilmoq",
+    "example": "I recommend this book."
+  },
+  {
+    "en": "compare",
+    "uz": "solishtirmoq",
+    "example": "Let's compare the two options."
+  },
+  {
+    "en": "describe",
+    "uz": "tasvirlamoq",
+    "example": "Can you describe your city?"
+  },
+  {
+    "en": "imagine",
+    "uz": "tasavvur qilmoq",
+    "example": "Imagine a world without wars."
+  },
+  {
+    "en": "guess",
+    "uz": "taxmin qilmoq",
+    "example": "Guess what happened today."
+  },
+  {
+    "en": "discover",
+    "uz": "kashf qilmoq",
+    "example": "Scientists discovered a new planet."
+  },
+  {
+    "en": "invent",
+    "uz": "ixtiro qilmoq",
+    "example": "He invented a useful device."
+  },
+  {
+    "en": "repair",
+    "uz": "taʼmirlamoq",
+    "example": "He repaired the broken chair."
+  },
+  {
+    "en": "break",
+    "uz": "sindirmoq",
+    "example": "She broke the glass."
+  },
+  {
+    "en": "fix",
+    "uz": "tuzatmoq",
+    "example": "Can you fix my phone?"
+  },
+  {
+    "en": "borrow",
+    "uz": "qarz olmoq",
+    "example": "I borrowed a book from the library."
+  },
+  {
+    "en": "lend",
+    "uz": "qarz bermoq",
+    "example": "Can you lend me some money?"
+  },
+  {
+    "en": "save",
+    "uz": "tejamoq/saqlamoq",
+    "example": "I save money every month."
+  },
+  {
+    "en": "spend",
+    "uz": "sarflamoq",
+    "example": "She spends a lot of time reading."
+  },
+  {
+    "en": "waste",
+    "uz": "behuda sarflamoq",
+    "example": "Don't waste your time."
+  },
+  {
+    "en": "earn",
+    "uz": "topmoq (pul)",
+    "example": "He earns a good salary."
+  },
+  {
+    "en": "lose (money)",
+    "uz": "yoʻqotmoq",
+    "example": "He lost his wallet."
+  },
+  {
+    "en": "count",
+    "uz": "sanamoq",
+    "example": "She counted the money."
+  },
+  {
+    "en": "measure",
+    "uz": "oʻlchamoq",
+    "example": "We measured the room."
+  },
+  {
+    "en": "cut",
+    "uz": "kesmoq",
+    "example": "She cut the bread."
+  },
+  {
+    "en": "burn",
+    "uz": "kuydirmoq",
+    "example": "Don't burn the food."
+  },
+  {
+    "en": "freeze",
+    "uz": "muzlamoq",
+    "example": "Water freezes at zero degrees."
+  },
+  {
+    "en": "melt",
+    "uz": "erimoq",
+    "example": "The ice melted in the sun."
+  },
+  {
+    "en": "wide",
+    "uz": "keng",
+    "example": "This road is very wide."
+  },
+  {
+    "en": "narrow",
+    "uz": "tor",
+    "example": "The street is very narrow."
+  },
+  {
+    "en": "deep",
+    "uz": "chuqur",
+    "example": "The river is very deep."
+  },
+  {
+    "en": "shallow",
+    "uz": "sayoz",
+    "example": "The water here is shallow."
+  },
+  {
+    "en": "sweet",
+    "uz": "shirin",
+    "example": "This cake is very sweet."
+  },
+  {
+    "en": "sour",
+    "uz": "nordon",
+    "example": "The lemon is very sour."
+  },
+  {
+    "en": "bitter",
+    "uz": "achchiq",
+    "example": "This medicine tastes bitter."
+  },
+  {
+    "en": "salty",
+    "uz": "shoʻr",
+    "example": "The soup is too salty."
+  },
+  {
+    "en": "fresh",
+    "uz": "yangi/toza",
+    "example": "These vegetables are very fresh."
+  },
+  {
+    "en": "rotten",
+    "uz": "chirigan",
+    "example": "Don't eat this rotten fruit."
+  },
+  {
+    "en": "quiet (adj2)",
+    "uz": "tinch",
+    "example": "This is a quiet village."
+  },
+  {
+    "en": "noisy",
+    "uz": "shovqinli",
+    "example": "The street is very noisy."
+  },
+  {
+    "en": "crowded",
+    "uz": "gavjum",
+    "example": "The market is very crowded."
+  },
+  {
+    "en": "empty (adj2)",
+    "uz": "boʻsh (joy)",
+    "example": "The bus was empty."
+  },
+  {
+    "en": "comfortable",
+    "uz": "qulay",
+    "example": "This chair is very comfortable."
+  },
+  {
+    "en": "uncomfortable",
+    "uz": "noqulay",
+    "example": "These shoes are uncomfortable."
+  },
+  {
+    "en": "possible",
+    "uz": "mumkin boʻlgan",
+    "example": "It's possible to finish today."
+  },
+  {
+    "en": "impossible",
+    "uz": "imkonsiz",
+    "example": "It's impossible to be there on time."
+  },
+  {
+    "en": "normal",
+    "uz": "oddiy/normal",
+    "example": "This is a normal day."
+  },
+  {
+    "en": "strange",
+    "uz": "gʻalati",
+    "example": "That was a strange story."
+  },
+  {
+    "en": "similar",
+    "uz": "oʻxshash",
+    "example": "These two houses are similar."
+  },
+  {
+    "en": "different",
+    "uz": "boshqacha/farqli",
+    "example": "Our opinions are different."
+  },
+  {
+    "en": "equal",
+    "uz": "teng",
+    "example": "We are all equal."
+  },
+  {
+    "en": "careful",
+    "uz": "ehtiyotkor",
+    "example": "Be careful on the road."
+  },
+  {
+    "en": "careless",
+    "uz": "beparvo",
+    "example": "He is careless with money."
+  },
+  {
+    "en": "curious",
+    "uz": "qiziquvchan",
+    "example": "She is very curious about science."
+  },
+  {
+    "en": "generous",
+    "uz": "saxiy",
+    "example": "He is a generous man."
+  },
+  {
+    "en": "selfish",
+    "uz": "xudbin",
+    "example": "Don't be selfish."
+  },
+  {
+    "en": "polite (adj2)",
+    "uz": "muloyim",
+    "example": "She is always polite."
+  },
+  {
+    "en": "rude",
+    "uz": "qoʻpol",
+    "example": "His words were very rude."
+  },
+  {
+    "en": "cheerful",
+    "uz": "xushchaqchaq",
+    "example": "She has a cheerful personality."
+  },
+  {
+    "en": "serious",
+    "uz": "jiddiy",
+    "example": "This is a serious problem."
+  },
+  {
+    "en": "calm",
+    "uz": "xotirjam",
+    "example": "Stay calm during the exam."
+  },
+  {
+    "en": "nervous",
+    "uz": "asabiy",
+    "example": "I feel nervous before exams."
+  },
+  {
+    "en": "shy",
+    "uz": "uyalchan",
+    "example": "The boy is very shy."
+  },
+  {
+    "en": "friendly",
+    "uz": "doʻstona",
+    "example": "Our neighbors are very friendly."
+  },
+  {
+    "en": "responsible",
+    "uz": "masʼuliyatli",
+    "example": "She is a responsible student."
+  },
+  {
+    "en": "independent",
+    "uz": "mustaqil",
+    "example": "He is very independent."
+  },
+  {
+    "en": "creative",
+    "uz": "ijodiy",
+    "example": "She has a creative mind."
+  },
+  {
+    "en": "talented",
+    "uz": "iqtidorli",
+    "example": "He is a talented musician."
+  },
+  {
+    "en": "cup",
+    "uz": "piyola/stakan",
+    "example": "She drank tea from a cup."
+  },
+  {
+    "en": "plate",
+    "uz": "laganda/tarelka",
+    "example": "Put the food on the plate."
+  },
+  {
+    "en": "spoon",
+    "uz": "qoshiq",
+    "example": "Use a spoon to eat soup."
+  },
+  {
+    "en": "fork",
+    "uz": "vilka",
+    "example": "She ate salad with a fork."
+  },
+  {
+    "en": "knife",
+    "uz": "pichoq",
+    "example": "Be careful with the knife."
+  },
+  {
+    "en": "bottle",
+    "uz": "shisha",
+    "example": "Fill the bottle with water."
+  },
+  {
+    "en": "box",
+    "uz": "quti",
+    "example": "Put the toys in the box."
+  },
+  {
+    "en": "bag (object)",
+    "uz": "xalta/sumka",
+    "example": "She packed her bag for the trip."
+  },
+  {
+    "en": "umbrella",
+    "uz": "soyabon",
+    "example": "Take an umbrella, it might rain."
+  },
+  {
+    "en": "candle",
+    "uz": "sham",
+    "example": "She lit a candle."
+  },
+  {
+    "en": "mirror (object)",
+    "uz": "oyna (ko'zgu)",
+    "example": "She checked her hair in the mirror."
+  },
+  {
+    "en": "blanket",
+    "uz": "koʻrpa",
+    "example": "The blanket keeps me warm."
+  },
+  {
+    "en": "pillow",
+    "uz": "yostiq",
+    "example": "I sleep with a soft pillow."
+  },
+  {
+    "en": "towel",
+    "uz": "sochiq",
+    "example": "Dry your hands with a towel."
+  },
+  {
+    "en": "soap",
+    "uz": "sovun",
+    "example": "Wash your hands with soap."
+  },
+  {
+    "en": "brush",
+    "uz": "cho'tka/qalam-cho'tka",
+    "example": "She cleaned it with a brush."
+  },
+  {
+    "en": "scissors",
+    "uz": "qaychi",
+    "example": "Use scissors to cut the paper."
+  },
+  {
+    "en": "needle",
+    "uz": "igna",
+    "example": "She sewed with a needle."
+  },
+  {
+    "en": "rope",
+    "uz": "arqon",
+    "example": "They tied the boat with a rope."
+  },
+  {
+    "en": "ladder",
+    "uz": "narvon",
+    "example": "He climbed the ladder."
+  },
+  {
+    "en": "laugh",
+    "uz": "kulmoq",
+    "example": "The children laughed loudly."
+  },
+  {
+    "en": "cry",
+    "uz": "yigʻlamoq",
+    "example": "The baby started to cry."
+  },
+  {
+    "en": "smile",
+    "uz": "tabassum qilmoq",
+    "example": "She smiled at me."
+  },
+  {
+    "en": "shout",
+    "uz": "baqirmoq",
+    "example": "He shouted for help."
+  },
+  {
+    "en": "whisper",
+    "uz": "shivirlamoq",
+    "example": "She whispered a secret."
+  },
+  {
+    "en": "silence",
+    "uz": "sukunat",
+    "example": "There was complete silence."
+  },
+  {
+    "en": "noise",
+    "uz": "shovqin",
+    "example": "I heard a strange noise."
+  },
+  {
+    "en": "voice",
+    "uz": "ovoz",
+    "example": "She has a beautiful voice."
+  },
+  {
+    "en": "sound",
+    "uz": "tovush",
+    "example": "I heard a loud sound."
+  },
+  {
+    "en": "light (noun)",
+    "uz": "yorugʻlik",
+    "example": "Turn on the light."
+  },
+  {
+    "en": "shadow",
+    "uz": "soya",
+    "example": "The tree cast a long shadow."
+  },
+  {
+    "en": "dream (noun2)",
+    "uz": "tush (uyqu)",
+    "example": "I had a strange dream last night."
+  },
+  {
+    "en": "wish",
+    "uz": "tilak",
+    "example": "Make a wish."
+  },
+  {
+    "en": "luck",
+    "uz": "omad",
+    "example": "Good luck on your exam!"
+  },
+  {
+    "en": "chance",
+    "uz": "imkoniyat",
+    "example": "This is a great chance for you."
+  },
+  {
+    "en": "risk",
+    "uz": "xavf/tavakkal",
+    "example": "Don't take unnecessary risks."
+  },
+  {
+    "en": "effort",
+    "uz": "harakat/sa'y-harakat",
+    "example": "She made a great effort to succeed."
+  },
+  {
+    "en": "skill",
+    "uz": "mahorat",
+    "example": "He has great cooking skills."
+  },
+  {
+    "en": "experience",
+    "uz": "tajriba",
+    "example": "She has a lot of work experience."
+  },
+  {
+    "en": "advice",
+    "uz": "maslahat",
+    "example": "Can you give me some advice?"
+  }
+]
