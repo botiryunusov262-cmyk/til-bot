@@ -2,6 +2,8 @@ import json
 import os
 import random
 import logging
+import threading
+from http.server import HTTPServer, BaseHTTPRequestHandler
 
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import (
@@ -22,6 +24,22 @@ def get_user(user_id):
     if user_id not in user_stats:
         user_stats[user_id] = {"correct": 0, "wrong": 0, "learned_words": set(), "last_word": None}
     return user_stats[user_id]
+
+
+class HealthHandler(BaseHTTPRequestHandler):
+    def do_GET(self):
+        self.send_response(200)
+        self.end_headers()
+        self.wfile.write(b"Bot ishlayapti")
+
+    def log_message(self, format, *args):
+        pass
+
+
+def run_health_server():
+    port = int(os.environ.get("PORT", 8080))
+    server = HTTPServer(("0.0.0.0", port), HealthHandler)
+    server.serve_forever()
 
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -107,6 +125,9 @@ def main():
     token = os.environ.get("BOT_TOKEN")
     if not token:
         raise RuntimeError("BOT_TOKEN muhit oʻzgaruvchisi topilmadi.")
+
+    health_thread = threading.Thread(target=run_health_server, daemon=True)
+    health_thread.start()
 
     app = Application.builder().token(token).build()
 
