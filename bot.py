@@ -1,13 +1,7 @@
-"""
-Til oʻrgatuvchi Telegram bot — Ingliz tili soʻzlarini oʻrgatadi
-Xususiyatlar: /start, /soz (kunlik soʻz), /viktorina (test), /statistika
-"""
-
 import json
 import os
 import random
 import logging
-from datetime import datetime
 
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import (
@@ -17,13 +11,10 @@ from telegram.ext import (
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
 
-# --- Maʼlumotlarni yuklash ---
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(BASE_DIR, "words.json"), "r", encoding="utf-8") as f:
     WORDS = json.load(f)
 
-# Foydalanuvchi statistikasi (xotirada saqlanadi — server qayta ishga tushsa tozalanadi)
-# Katta loyihada buni fayl yoki bazaga saqlash tavsiya etiladi
 user_stats = {}
 
 
@@ -33,7 +24,6 @@ def get_user(user_id):
     return user_stats[user_id]
 
 
-# --- /start komandasi ---
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     text = (
         "👋 Salom! Men sizga ingliz tilini oʻrgatuvchi botman.\n\n"
@@ -46,7 +36,6 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(text)
 
 
-# --- /soz komandasi: tasodifiy yangi soʻz beradi ---
 async def soz(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user = get_user(update.effective_user.id)
     word = random.choice(WORDS)
@@ -61,7 +50,6 @@ async def soz(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(text, parse_mode="Markdown")
 
 
-# --- /viktorina komandasi: test savoli beradi ---
 async def viktorina(update: Update, context: ContextTypes.DEFAULT_TYPE):
     correct_word = random.choice(WORDS)
     wrong_options = random.sample([w for w in WORDS if w != correct_word], 3)
@@ -81,7 +69,6 @@ async def viktorina(update: Update, context: ContextTypes.DEFAULT_TYPE):
     )
 
 
-# --- Viktorina javobini qayta ishlash ---
 async def handle_quiz_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
     query = update.callback_query
     await query.answer()
@@ -101,7 +88,6 @@ async def handle_quiz_answer(update: Update, context: ContextTypes.DEFAULT_TYPE)
         )
 
 
-# --- /statistika komandasi ---
 async def statistika(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user = get_user(update.effective_user.id)
     total = user["correct"] + user["wrong"]
@@ -116,34 +102,23 @@ async def statistika(update: Update, context: ContextTypes.DEFAULT_TYPE):
     )
     await update.message.reply_text(text, parse_mode="Markdown")
 
-import asyncio
 
-async def main_async():
+def main():
     token = os.environ.get("BOT_TOKEN")
     if not token:
-        raise RuntimeError("Serverda BOT_TOKEN topilmadi!")
-    
-    global app
+        raise RuntimeError("BOT_TOKEN muhit oʻzgaruvchisi topilmadi.")
+
     app = Application.builder().token(token).build()
-    
+
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("soz", soz))
     app.add_handler(CommandHandler("viktorina", viktorina))
     app.add_handler(CommandHandler("statistika", statistika))
-    app.add_handler(CallbackQueryHandler(button_handler))
-    
+    app.add_handler(CallbackQueryHandler(handle_quiz_answer, pattern="^quiz\\|"))
+
     logger.info("Bot ishga tushdi...")
-    
-    await app.initialize()
-    await app.start()
-    await app.updater.start_polling()
-    
-    while True:
-        await asyncio.sleep(1)
+    app.run_polling()
 
-if __name__ == '__main__':
-    asyncio.run(main_async
 
-():
-
-    
+if __name__ == "__main__":
+    main()
